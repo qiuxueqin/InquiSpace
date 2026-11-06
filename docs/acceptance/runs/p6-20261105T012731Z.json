@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "runId": "p6-20261105T012731Z",
+  "startedAt": "2026-11-05T01:27:31Z",
+  "finishedAt": "2026-11-05T01:27:41Z",
+  "status": "failed",
+  "provider": "DeepSeek",
+  "model": "deepseek-flash",
+  "effort": "high",
+  "promptVersions": {
+    "dialogue": "p4-dialogue-v1",
+    "acceptanceRunner": "p6-acceptance-v1"
+  },
+  "cases": [],
+  "humanReviewStatus": "pending",
+  "notes": [
+    "自动核验不是最终语义验收；逐轮 humanVerdict 必须由教师或评审填写。",
+    "记录不包含 API 密钥、隐藏系统提示全文、数据库路径或供应商原始响应。"
+  ],
+  "error": {
+    "code": "ANSWER_REJECTED",
+    "message": "模型回答块格式无效",
+    "retryable": false
+  }
+}
