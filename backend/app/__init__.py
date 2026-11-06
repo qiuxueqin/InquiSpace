@@ -1,0 +1,1 @@
+"""InquiSpace application package."""
