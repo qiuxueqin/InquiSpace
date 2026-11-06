@@ -1,0 +1,15 @@
+{
+  "name": "zhijing-opendesign-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "阶段一单角色沉浸式探究 · OpenDesign HTML 交互原型",
+  "scripts": {
+    "start": "node serve.mjs",
+    "build": "node build.mjs",
+    "test": "node --test tests/model.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
