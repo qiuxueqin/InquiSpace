@@ -12,6 +12,7 @@ __pycache__/
 .coverage
 htmlcov/
 node_modules/
+/defense-presentation/node_modules
 dist/
 *.tsbuildinfo
 playwright-report/
